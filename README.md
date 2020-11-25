@@ -1,4 +1,4 @@
-# SNS-CSL-443: Ottway-Rees-Protocol
+# SNS-CSL-443: Assignment 5
 An implementation of the Ottway-Rees Protocol as part of the curriculum of the System and Network Security course in College.
 
 The assignment consisted of 2 parts: Implementing the Keyed Transposition Cipher, and then implementing the Ottway-Rees Protocol 
