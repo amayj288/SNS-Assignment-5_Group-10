@@ -25,11 +25,14 @@ The code has been explained in the video, and can be executed in the terminal in
 
       i) Generate Keys/Provide own keys - We have generated random keys for using this Protocol of long length(16 bytes), so user doesn't have to worry about that. 
                                           Just open the terminal and execute the following command:
-      
+
+        Move to the directory where file main.py is present.
+        
                   -> python main.py key
                                     
       ii) Main Execution: Since this - Since it involves communiaction between server and client, open 3 terminals with the path containing the 'main.py' file 
                                        and the generated keys in txt files. Then execute the following in the 3 separate terminals(in the same order as given i.e. first execute Terminal 1(KDC) then Terminal 2(Server) and then terminal 3 (client)):
+                                       ( Move to the directory where file main.py is present)
       
                            Terminal 1:-
                                               -> python main.py KDC
