@@ -12,6 +12,11 @@ The code has been explained in the video, and can be executed in the terminal as
                  -> python trans_cipher.py
                  
 Once this is run, it will ask the user to enter the inputs as required, and the user can enter them and see the required output.
+(e.g. Enter the Key: HELLO
+      Enter Plain Text: defend the east wall of the castle
+      Cipher Text is:  ETSLELDDALHTFHTOCEEEWFANEATS
+      Original Message is:  DEFENDTHEEASTWALLOFTHECASTLE
+ )
 
 
 2) Ottway-Rees Protocol
