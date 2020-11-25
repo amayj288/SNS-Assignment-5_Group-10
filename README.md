@@ -6,6 +6,8 @@ The assignment consisted of 2 parts: Implementing the Keyed Transposition Cipher
 1) Keyed Transposition Cipher
 The file to run this is the 'trans_cipher.py' file which is inside the 'Keyed-Tranpsosition-Cipher Directory'.
 The code has been explained in the video, and can be executed in the terminal as:
+First run this : ->  pip install pycipher
+
 
                  -> python trans_cipher.py
                  
