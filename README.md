@@ -4,7 +4,7 @@ An implementation of the Ottway-Rees Protocol as part of the curriculum of the S
 The assignment consisted of 2 parts: Implementing the Keyed Transposition Cipher, and then implementing the Ottway-Rees Protocol 
 
 1) Keyed Transposition Cipher
-The file to run this is the 'trans_cipher.py' file which is inside the 'Keyed Tranpsosition Cipher Directory'.
+The file to run this is the 'trans_cipher.py' file which is inside the 'Keyed-Tranpsosition-Cipher Directory'.
 The code has been explained in the video, and can be executed in the terminal as:
 
                  -> python trans_cipher.py
@@ -13,7 +13,12 @@ Once this is run, it will ask the user to enter the inputs as required, and the 
 
 
 2) Ottway-Rees Protocol
-The file to run this is the 'main.py' file which is inside the 'Keyed Tranpsosition Cipher Directory'.
+
+Extra modules to install: If it gives an error and doesn't run saying proper modules not installed, install the following model:
+
+                 -> pip install pycryptodome
+                 
+The file to run this is the 'main.py' file which is inside the 'Ottway-Rees-Protocol Directory'.
 The code has been explained in the video, and can be executed in the terminal in the following steps:
 
       i) Generate Keys/Provide own keys - We have generated random keys for using this Protocol of long length(16 bytes), so user doesn't have to worry about that. Just open                                              terminal and execute the following command:
