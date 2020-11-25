@@ -37,4 +37,5 @@ The code has been explained in the video, and can be executed in the terminal in
                                               
                            Terminal 3:-
                                               -> python main.py KDC
-                                    
+                                              
+![Optional Text](../master/Images/Terminals_View.png)
