@@ -21,11 +21,13 @@ Extra modules to install: If it gives an error and doesn't run saying proper mod
 The file to run this is the 'main.py' file which is inside the 'Ottway-Rees-Protocol Directory'.
 The code has been explained in the video, and can be executed in the terminal in the following steps:
 
-      i) Generate Keys/Provide own keys - We have generated random keys for using this Protocol of long length(16 bytes), so user doesn't have to worry about that. Just open                                              terminal and execute the following command:
+      i) Generate Keys/Provide own keys - We have generated random keys for using this Protocol of long length(16 bytes), so user doesn't have to worry about that. 
+                                          Just open the terminal and execute the following command:
       
                   -> python main.py key
                                     
-      ii) Main Execution: Since this - Since it involves communiaction between server and client, open 3 terminals with the path containing the 'main.py' file and the generated                                        keys in txt files. Then execute the following in the 3 separate terminals simultaneously:
+      ii) Main Execution: Since this - Since it involves communiaction between server and client, open 3 terminals with the path containing the 'main.py' file 
+                                       and the generated keys in txt files. Then execute the following in the 3 separate terminals simultaneously:
       
                            Terminal 1:-
                                               -> python main.py A
