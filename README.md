@@ -27,13 +27,14 @@ The code has been explained in the video, and can be executed in the terminal in
                   -> python main.py key
                                     
       ii) Main Execution: Since this - Since it involves communiaction between server and client, open 3 terminals with the path containing the 'main.py' file 
-                                       and the generated keys in txt files. Then execute the following in the 3 separate terminals simultaneously:
+                                       and the generated keys in txt files. Then execute the following in the 3 separate terminals(in the same order as given i.e. first execute Terminal 1(KDC) then Terminal 2(Server) and then terminal 3 (client)):
       
                            Terminal 1:-
-                                              -> python main.py A
+                                              -> python main.py KDC
                            
                            Terminal 2:-
                                               -> python main.py B
                                               
                            Terminal 3:-
-                                              -> python main.py KDC
+                                              -> python main.py A
+           
